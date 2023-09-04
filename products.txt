@@ -1,0 +1,5 @@
+1111;orange juice bottles;juice;3;400;juiceComp;1;1;2023-01-20
+1102;apples;juice;3;397;juiceComp;1;1;2023-01-20
+10891;ketkat;juice;3;390;juiceComp;1;1;2023-01-20
+2;banana;juice;3;100;juiceComp;0;0;2023-01-20
+3;bie;juice;1;20;juiceComp;1;1;2023-01-20

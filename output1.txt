@@ -1,0 +1,3 @@
+1111;orange juice bottles;juice;3;400;juiceComp;1;1;2023-01-20
+1102;bonbon;juice;3;400;juiceComp;1;1;2023-01-20
+10891;ketkat;juice;2;400;juiceComp;1;1;2023-01-20

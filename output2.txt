@@ -1,0 +1,4 @@
+4;Ahmad hussam;2022-01-19;shopper;1;{10891: 10, 1102: 3};1
+2;Ahmad hussam;2022-01-19;admin;1;{};0
+1;nsr hassan;2022-01-19;admin;1;{};0
+3;wael hassan;2022-01-19;shopper;1;{};0
